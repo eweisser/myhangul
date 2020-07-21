@@ -1,0 +1,172 @@
+rieul	1
+	2
+	3
+	4
+mieum	1
+	2
+	3
+	4
+bieup	1	same as mieum2
+	2
+	3	same as mieum1
+	4	same as rieul4
+	5
+siot	1	same as bieup5
+	2
+	3
+	4	same as mieum3
+	5	same as rieul2
+jieut	1
+	2	same as bieup2
+	3				! missing
+	4
+	5
+chieut	1
+	2
+	3
+	4	same as jieut5
+	5	same as bieup5
+vowels	1
+	2	same as jieut5
+	3	same as rieul4
+	4
+
+
+
+rieul 1		http://sharehows.com/wp-content/uploads/2016/01/unusual-hobby-calligraphy-08.jpg
+	clip: rect(155px,750px,300px,455px);
+	top: -155px;
+	left: -455px;
+rieul 2		https://scontent-ams3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12446067_1756997104533143_921895468_n.jpg
+	clip: rect(280px,450px,395px,358px);
+	top: -280px;
+	left: -50px;
+rieul 3		http://imgjungle.jungle.co.kr/Magazine/up_img/category/013(3).gif
+	clip: rect(273px,375px,355px,330px);
+	top: -230px;
+	left: -220px;
+rieul 4		http://imgjungle.jungle.co.kr/Magazine/up_img/category/001(13).gif
+	clip: rect(0px,214px,67px,172px);
+	top: 10px;
+	left: 255px;
+
+
+
+mieum 1		http://cfile21.uf.tistory.com/image/24012F495262B31007FE7B
+	clip: rect(170px,118px,230px,68px);
+	top: -170px;
+	left: -48px;
+mieum 2		http://mblogthumb1.phinf.naver.net/20141020_176/clare9628_1413785988817tlVEX_JPEG/%BA%BD%C0%CC%B5%C7%BF%E42.jpg?type=w2
+	clip: rect(230px,220px,330px,100px);
+	top: -230px;
+	left: -15px;
+mieum 3		http://mblogthumb1.phinf.naver.net/20141020_176/clare9628_1413785988817tlVEX_JPEG/%BA%BD%C0%CC%B5%C7%BF%E42.jpg?type=w2
+	clip: rect(92px,110px,151px,20px);
+	top: -92px;
+	left: 200px;
+mieum 4		https://pbs.twimg.com/profile_images/816891882122817536/3ZnnK8bS.jpg
+	clip: rect(225px,512px,290px,400px);
+	top: -225px;
+	left: -60px;
+	
+
+
+bieup 1		http://mblogthumb1.phinf.naver.net/20141020_176/clare9628_1413785988817tlVEX_JPEG/%BA%BD%C0%CC%B5%C7%BF%E42.jpg?type=w2
+	clip: rect(52px,200px,200px,60px);
+	top: -52px;
+	left: -60px;
+bieup 2		http://sharehows.com/wp-content/uploads/2016/01/unusual-hobby-calligraphy-05.jpg
+	clip: rect(322px,398px,396px,300px);
+	top: -322px;
+	left: -150px;
+bieup 3		http://cfile21.uf.tistory.com/image/24012F495262B31007FE7B
+	clip: rect(175px,336px,217px,301px);
+	top: -82px;
+	left: -118px;
+bieup 4		http://imgjungle.jungle.co.kr/Magazine/up_img/category/001(13).gif
+	clip: rect(68px,160px,109px,128px);
+	top: -68px;
+	left: 150px;
+bieup 5		http://scontent-amt2-1.cdninstagram.com/t51.2885-15/e35/18013243_1951720578394363_6949522333518266368_n.jpg?ig_cache_key=MTQ5ODYzMTY2ODAwNDgyNzMzNA%3D%3D.2
+	clip: rect(360px,490px,388px,450px);
+	top: -261px;
+	left: -174px;
+
+
+siot 1		http://scontent-amt2-1.cdninstagram.com/t51.2885-15/e35/18013243_1951720578394363_6949522333518266368_n.jpg?ig_cache_key=MTQ5ODYzMTY2ODAwNDgyNzMzNA%3D%3D.2
+	clip: rect(227px,284px,266px,250px);
+	top: -227px;
+	left: -200px;	
+siot 2		---
+	clip: rect(270px,135px,345px,100px);
+	top: -270px;
+	left: 0px;	
+siot 3		http://sharehows.com/wp-content/uploads/2016/01/unusual-hobby-calligraphy-07.jpg
+	clip: rect(193px,360px,263px,304px);
+	top: -193px;
+	left: -145px;
+siot 4		http://gimage.interpark.com/goods_image/6/8/2/1/237556821s.jpg
+	clip: rect(200px,111px,237px,81px);
+	top: -200px;
+	left: 150px;
+siot 5		https://scontent-ams3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12446067_1756997104533143_921895468_n.jpg
+	clip: rect(299px,371px,385px,283px);
+	top: -299px;
+	left: 0px;
+
+
+jieut 1		http://www.kmaru.com/data/file/hangeul_board/hangeul_board_59_727.png
+	clip: rect(156px,345px,305px,203px);
+	top: -156px;
+	left: -203px;
+jieut 2		http://sharehows.com/wp-content/uploads/2016/01/unusual-hobby-calligraphy-05.jpg
+	clip: rect(250px,230px,332px,160px);
+	top: -250px;
+	left: 0px;
+jieut 3		---
+	[lost]
+jieut 4		http://sharehows.com/wp-content/uploads/2016/01/unusual-hobby-calligraphy-23.jpg
+	clip: rect(28px,76px,75px,35px);
+	top: -28px;
+	left: 220px;
+jieut 5		http://cfile8.uf.tistory.com/image/2242F935543B0F500DDFA9
+	clip: rect(128px,201px,185px,167px);
+	top: -60px;
+	left: 96px;
+
+
+
+
+chieut 1	http://www.koreanwikiproject.com/wiki/images/thumb/5/5d/%E3%85%8A.jpg/150px-%E3%85%8A.jpg
+	top: 0px;
+	left: 0px;
+chieut 2	http://naksnec.org/xe/files/attach/images/3138/561/005/1.png
+	clip: rect(493px,435px,555px,388px);
+	top: -493px;
+	left: -115px;
+chieut 3	http://cfile24.uf.tistory.com/image/2211F044591739AC2B1C61
+	clip: rect(328px,540px,468px,468px);
+	top: -328px;
+	left: -300px;
+chieut 4	http://cfile8.uf.tistory.com/image/2242F935543B0F500DDFA9
+	clip: rect(260px,152px,314px,60px);
+	top: -190px;
+	left: 200px;
+chieut 5	http://scontent-amt2-1.cdninstagram.com/t51.2885-15/e35/18013243_1951720578394363_6949522333518266368_n.jpg?ig_cache_key=MTQ5ODYzMTY2ODAwNDgyNzMzNA%3D%3D.2
+	clip: rect(24px,208px,68px,178px);
+	top: -15px;
+	left: 160px;
+
+vowels 1	http://cfile25.uf.tistory.com/image/14406E134A9546CFAA3126
+	clip: rect(22px,254px,108px,132px);
+	top: -22px;
+	left: -132px;
+vowels 2	http://cfile8.uf.tistory.com/image/2242F935543B0F500DDFA9
+	clip: rect(419px,467px,468px,423px);
+	top: -415px;
+	left: -265px;
+vowels 3	http://imgjungle.jungle.co.kr/Magazine/up_img/category/001(13).gif
+	clip: rect(10px,305px,48px,267px);
+	top: 0px;
+	left: -25px;
+vowels 4	---
